@@ -18,6 +18,8 @@
 ### Project Overview
 The project aims to provide insights into the effectiveness of marketing campaigns and track complaints by analysing customer demographics, behaviours and Preferences.
 
+https://tinyurl.com/c6bhsazx
+
 ![image](https://github.com/user-attachments/assets/a3d3d6d0-bdea-4dcb-9228-b679034c766a)
 
 ---
@@ -69,6 +71,9 @@ In the data cleaning and preparation phase, the following task were  performed:
 - Outlier detection
 - Data cleaning and formatting.
 - Data Modelling.
+
+  ![Modelling](https://github.com/user-attachments/assets/7c747b94-7c10-4c4c-b89a-bdbbc67805df)
+
 ---
  ### Exploratory Data Analysis
  The EDA involved exploring the dataset mto anser key questions such as:
