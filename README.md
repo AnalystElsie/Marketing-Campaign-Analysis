@@ -89,9 +89,9 @@ In the data cleaning and preparation phase, the following task were  performed:
 ---
 ### Recommendations
 1. Since over half of the customer base (50.31%) has a graduate-level education, tailor marketing messages to appeal to this group’s preferences for premium or specialized products. Highlight product quality, educational value, or sustainability to attract their attention.
-2.Given the positive correlation between middle-income earners and expenses, focus on creating special offers or loyalty programs that encourage repeat purchases. Emphasize affordability without compromising quality to maximize engagement with this segment.
-3. Customers aged 41-60 and 61+ buy most of the wines and meats. Consider crafting campaigns that feature premium wines and gourmet meats, specifically targeting this age group with personalized offers, particularly through in-store promotions and online channels.
-4. Since this age group prefers in-store purchases and has the highest web visits, focus on a seamless omnichannel strategy. Offer click-and-collect services, personalized discounts for in-store shopping, or incentives to drive store foot traffic.
+2. Given the positive correlation between middle-income earners and expenses,the company should focus on creating special offers or loyalty programs that encourage repeat purchases. Emphasize affordability without compromising quality to maximize engagement with this segment.
+3. Since Customers aged 41-60 and 61+ buy most of the wines and meats, the company should Consider crafting campaigns that feature premium wines and gourmet meats, specifically targeting this age group with personalized offers, particularly through in-store promotions and online channels.
+4. Since this age group prefers in-store purchases and has the highest web visits, the company should focus on a seamless omnichannel strategy. Offer click-and-collect services, personalized discounts for in-store shopping, or incentives to drive store foot traffic.
 ---
 ### Limitations
 1. Missing values were found in the income column and they were replaced by the median income value
