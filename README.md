@@ -1,6 +1,8 @@
 # Marketing-Campaign-Analysis
+---
 
 ## Table of contents
+
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
@@ -10,6 +12,7 @@
 - [Insights](#insights)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
+- ---
 
 
 ### Project Overview
@@ -17,20 +20,20 @@ The project aims to provide insights into the effectiveness of marketing campaig
 
 ![image](https://github.com/user-attachments/assets/a3d3d6d0-bdea-4dcb-9228-b679034c766a)
 
-
-
-
+---
 
 ### Data Sources
 The dataset used for this analysis is the "Marketing_campaign.csv" containing detailed information about the customer.
 
+---
 ### Tools
 - Excel - Data Cleaning
 - PowerBi- Creating Reports
 - Canva - Designing Backgrounds
 - Powerpoint- Designing
-
+---
 ### Data Dictionary
+
 - ID: Customer's unique identifier.
 - Year_Birth: Customer's birth year.
 - Education: Customer's education level
@@ -58,7 +61,7 @@ The dataset used for this analysis is the "Marketing_campaign.csv" containing de
 - NumCatalogPurchases: Number of purchases made using a catalogue
 - NumStorePurchases: Number of purchases made directly in stores
 - NumWebVisitsMonth: Number of visits to company’s website in the last month
-
+---
 ### Data Cleaning
 In the data cleaning and preparation phase, the following task were  performed:
 - Data loading and inspection.
@@ -66,7 +69,7 @@ In the data cleaning and preparation phase, the following task were  performed:
 - Outlier detection
 - Data cleaning and formatting.
 - Data Modelling.
-
+---
  ### Exploratory Data Analysis
  The EDA involved exploring the dataset mto anser key questions such as:
  1. Which customer segments (age, marital status, kids, income, education) are most likely to accept the marketing campaigns?
@@ -74,7 +77,7 @@ In the data cleaning and preparation phase, the following task were  performed:
  3. What is the relationship between age and product preferences, and how can we use this information to tailor future campaigns?
  4. which customer segments (age, marital status, kids, income, education) are most likely to complain the most.
  5. What patterns can we observe in customer behavior across different campaigns, and how can we use these insights to forecast future campaign success?
-
+---
 ### Insights
 1. 50.31 % of their customers are in the Graduate category of Education while 2.41% have Basic Education
 2. There is a positive correlation betweern Middle income earners and expenses.
@@ -83,13 +86,13 @@ In the data cleaning and preparation phase, the following task were  performed:
 5. Customers in age grade 41-60 yrs preferes stores purchases and they have the highest web visits
 6. Most of the complaints are coming from the Graduates, Married, low income earners and those in 60years and above age agroup.
 7. Customers most likely to acccept Campaigns are the Graduates, Married,Middle income earners and those in age group 41-60 years of age.
-
+---
 ### Recommendations
 1. Since over half of the customer base (50.31%) has a graduate-level education, tailor marketing messages to appeal to this group’s preferences for premium or specialized products. Highlight product quality, educational value, or sustainability to attract their attention.
 2.Given the positive correlation between middle-income earners and expenses, focus on creating special offers or loyalty programs that encourage repeat purchases. Emphasize affordability without compromising quality to maximize engagement with this segment.
 3. Customers aged 41-60 and 61+ buy most of the wines and meats. Consider crafting campaigns that feature premium wines and gourmet meats, specifically targeting this age group with personalized offers, particularly through in-store promotions and online channels.
 4. Since this age group prefers in-store purchases and has the highest web visits, focus on a seamless omnichannel strategy. Offer click-and-collect services, personalized discounts for in-store shopping, or incentives to drive store foot traffic.
-
+---
 ### Limitations
 1. Missing values were found in the income column and they were replaced by the median income value
 2. Three(3) Outliers were found in the Age 
