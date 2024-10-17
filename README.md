@@ -15,6 +15,10 @@
 ### Project Overview
 The project aims to provide insights into the effectiveness of marketing campaigns and track complaints by analysing customer demographics, behaviours and Preferences.
 
+![image](https://github.com/user-attachments/assets/a3d3d6d0-bdea-4dcb-9228-b679034c766a)
+
+
+
 
 
 ### Data Sources
