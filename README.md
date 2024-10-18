@@ -100,4 +100,4 @@ In the data cleaning and preparation phase, the following task were  performed:
 ---
 ### Limitations
 1. Missing values were found in the income column and they were replaced by the median income value
-2. Three(3) Outliers were identified in the age column during the data analysis; however, they were not addressed in the current analysis.
+2. Three(3) Outliers were identified in the age column during the data analysis; however, due to the lack of guidance on how to handle these values, they were left untreated in the current analysis.
